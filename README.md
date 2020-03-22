@@ -1,3 +1,3 @@
 # 2020Drills
-Working thru some drills and Python Automation Course from Udemy
+Working thru some concepts and drills via Udemy
 # FUN!
