@@ -7,3 +7,6 @@ this is an example of a codeblock
 ```
 
 # And here is an emoji :joy:
+
+
+Go [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) for more!
