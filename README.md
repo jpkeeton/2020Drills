@@ -1,12 +1,20 @@
 # 2020Drills
-Working thru some Python concepts and drills via Udemy, DataCamp and other resources.
+Working thru Python concepts and drills from a variety of resources.
 # FUN!
 
 ```bash
-this is an example of a codeblock
+Codeblock example
 ```
 
-# And here is an emoji :joy:
+# And here is an emoji :joy: :bacon:
 
 
 Go [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) for more!
+
+
+
+
+
+
+
+
