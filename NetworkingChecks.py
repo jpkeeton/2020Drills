@@ -35,12 +35,14 @@ for ip in ip_list:
         print(f"{ip} Ping Unsuccessful")
         
 # TODO so how long did this take?
-
+print('This test took: ' + (str(datetime.now() - startTime)) + ' Seconds')
 # print(datetime.now() - startTime)
 # or more verbosely
-print('This test took: ' + (str(datetime.now() - startTime)) + ' Seconds')
+
 
 # TODO find out and if it takes > n time, kill it
+# TODO compare/contrast w the script I have going on my work machine
+
 
 
 # <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
